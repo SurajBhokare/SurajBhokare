@@ -19,7 +19,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/suraj-bhokare">
+  <a href="https://www.linkedin.com/in/suraj-bhokare-319245257">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
